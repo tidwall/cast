@@ -1,6 +1,5 @@
-CAST
-====
-![Travis CI Build Status](https://api.travis-ci.org/tidwall/cast.svg?branch=master)
+# CAST
+
 [![GoDoc](https://godoc.org/github.com/tidwall/cast?status.svg)](https://godoc.org/github.com/tidwall/cast)
 
 Quickly convert string <-> []byte without memory reallocations and create mutable string or immutable []byte.
